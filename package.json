@@ -1,0 +1,20 @@
+{
+  "name": "certi-issuer-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10",
+    "md5-file": "^4.0.0",
+    "node-rsa": "^1.0.1",
+    "web3": "github:ethereum/web3.js",
+    "yargs": "^12.0.2"
+  }
+}
